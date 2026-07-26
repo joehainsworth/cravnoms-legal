@@ -1,7 +1,7 @@
 <!-- Cravnoms Privacy Policy — v1 — drafted 2026-07-25 -->
 # Privacy Policy for Cravnoms
 
-**Last updated: [FILL IN DATE WHEN PUBLISHED]**
+**Last updated: July 26, 2026**
 
 Cravnoms ("the app") is developed by DarkRoast Apps. This policy explains what information the app does and does not collect.
 
@@ -29,7 +29,7 @@ If this policy changes (for example, if future features involve server-side data
 
 ## Contact
 
-Questions about this policy can be directed to: [YOUR CONTACT EMAIL]
+Questions about this policy can be directed to: joehainsworth@gmail.com
 
 ---
 *Cravnoms Privacy Policy — Version 1*
